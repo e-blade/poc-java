@@ -1,1 +1,1 @@
-# poc-java-springmvc
+# poc-java

@@ -2,7 +2,7 @@ package br.com.eblade.poc.foundation.crypto;
 
 import org.springframework.security.authentication.encoding.MessageDigestPasswordEncoder;
 
-public abstract class StringEncoder {
+public class StringEncoder {
 
 	// salt is used with null value
 	private static Object salt;
